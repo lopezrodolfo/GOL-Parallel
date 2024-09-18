@@ -3,9 +3,9 @@
  *
  * Main function for the Game of Life simulator.
  *
- * Author: Your Name
+ * Author: Rodolfo Lopez
  *
- * Date: Today's Date
+ * Date: December 8, 2020
  */
 
 #define _XOPEN_SOURCE 600
